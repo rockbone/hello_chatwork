@@ -9,7 +9,7 @@ setuptools.setup(
     author_email        = 'rockbone.g@gmail.com',
     description         = 'Hello Chatwork! Please show me log!',
     long_description    = 'file:README.md',
-    url                 = 'https://example.com/my/project/page',
+    url                 = 'https://github.com/rockbone/hello_chatwork',
     license             = 'Apache License, Version 2.0',
     install_requires    = [
         'requests',
