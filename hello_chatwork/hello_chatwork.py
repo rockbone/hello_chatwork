@@ -65,4 +65,4 @@ def main ():
     else:
         with open(args.output, "w") as f:
             for message in messages:
-                f.write(format_message(message))
+                f.write(format_message(message) + "\n")
