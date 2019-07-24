@@ -10,7 +10,7 @@ setuptools.setup(
     description         = 'Hello Chatwork! Please show me log!',
     long_description    = 'file:README.md',
     url                 = 'https://github.com/rockbone/hello_chatwork',
-    license             = 'Apache License, Version 2.0',
+    license             = 'MIT License',
     install_requires    = [
         'requests',
         'argparse',
