@@ -22,7 +22,7 @@ HelloChatwork is a utility tool for logging Chatwork timeline.
           -r ROOM_ID, --room_id ROOM_ID
                                 Chatwork Room ID
           -o OUTPUT, --output OUTPUT
-                            Filename to output
+                                Filename to output
 
 ## License
 
